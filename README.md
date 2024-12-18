@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagar_306" target="blank"><img src="https://img.shields.io/twitter/follow/sagar_306?logo=twitter&style=for-the-badge" alt="sagar_306" /></a> </p>
 
-- 🌱 I’m currently learning **how to build SaaS tool.**
+- 🌱 I’m currently learning **how to build a SaaS tool.**
 
 - 👨‍💻 All of my projects are available at [https://sagarspk.com.np](https://sagarspk.com.np)
 
